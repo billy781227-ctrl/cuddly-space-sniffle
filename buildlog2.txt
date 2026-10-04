@@ -1,0 +1,1 @@
+ConfigError: The expected package.json path: /workspaces/codespaces-blank/package.json does not exist
